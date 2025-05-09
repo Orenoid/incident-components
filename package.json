@@ -19,6 +19,7 @@
     "dev": "next dev",
     "build": "next build",
     "build:lib": "tsc -p tsconfig.lib.json",
+    "prepare": "npm run build:lib",
     "start": "next start",
     "lint": "next lint"
   },
