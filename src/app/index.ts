@@ -1,3 +1,3 @@
 export function HelloWorld() {
-    return "Hello World"
+    return "Hello World v2"
 }
