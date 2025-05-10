@@ -5,7 +5,8 @@
     "declarationMap": false,
     "sourceMap": false,
     "outDir": "dist",
-    "rootDir": "src"
+    "rootDir": "src",
+    "jsx": "react-jsx"
   },
   "include": [
     "src/app/**/*.ts",
