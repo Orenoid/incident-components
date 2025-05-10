@@ -8,7 +8,8 @@
     "rootDir": "src"
   },
   "include": [
-    "src/app/index.ts",
+    "src/app/**/*.ts",
+    "src/app/**/*.tsx"
   ],
   "exclude": [
     "node_modules",
