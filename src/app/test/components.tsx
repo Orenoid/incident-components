@@ -1,3 +1,7 @@
+'use client'
+
 export function TestComponent() {
-    return <div>Test Component</div>
+    return <div>
+        Hello Test Component
+    </div>
 }
